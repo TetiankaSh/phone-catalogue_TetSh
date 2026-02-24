@@ -1,22 +1,25 @@
 # Phone Catalogue 📱
 
-A modern, responsive e-commerce application for browsing and purchasing mobile devices. This project features a full product catalog, detailed product pages, a functional shopping cart, and a favorites system.
+A modern, responsive e-commerce application for browsing and purchasing mobile devices. This project features a full product catalog with sorting and filtering, detailed product specifications, a functional shopping cart, and a favorites system to enhance the user shopping experience.
 
-## 🔗 Live Demo
+## Live Preview
 Experience the application here:
 👉 **[LIVE DEMO LINK](https://tetiankash.github.io/phone-catalogue_TetSh/)**
 
-## ✨ Key Features
-* **Product Catalog:** Browse a wide range of phones with sorting and filtering options (by price, age, or name).
-* **Pagination:** Smooth navigation through large sets of products.
-* **Product Details:** In-depth information for every device, including technical specs and high-quality images.
-* **Shopping Cart:** Add/remove items and adjust quantities with an automatic total price calculation.
-* **Favorites:** A dedicated "Wishlist" for saving products you're interested in.
-* **Responsive Layout:** Fully optimized for mobile, tablet, and desktop screens.
-* **Dark Mode Support:** Clean UI design that adapts to user preferences.
+## Design Reference
+This project was implemented based on the following Figma design:
+* **[Figma Design Link](https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f)**
 
-## 🛠️ Tech Stack
-* **React** with **TypeScript** for robust, type-safe components.
-* **SCSS** (Sass) for styling, following the **BEM** methodology.
-* **React Router** for seamless single-page navigation.
+## Technologies Used
+* **React** – Functional components and Hooks for state management.
+* **TypeScript** – For robust, type-safe development and better developer experience.
+* **React Router** – For seamless single-page navigation (SPA).
+* **SCSS** – Modular styling using variables and mixins following **BEM** methodology.
 
+## Getting Started
+Follow these steps to set up the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/TetiankaSh/phone-catalogue_TetSh.git](https://github.com/TetiankaSh/phone-catalogue_TetSh.git)
+   cd phone-catalogue_TetSh
