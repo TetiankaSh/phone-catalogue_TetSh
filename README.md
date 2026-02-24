@@ -16,10 +16,25 @@ This project was implemented based on the following Figma design:
 * **React Router** – For seamless single-page navigation (SPA).
 * **SCSS** – Modular styling using variables and mixins following **BEM** methodology.
 
-## Getting Started
-Follow these steps to set up the project locally:
+## 🚀 Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/TetiankaSh/phone-catalogue_TetSh.git](https://github.com/TetiankaSh/phone-catalogue_TetSh.git)
-   cd phone-catalogue_TetSh
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/TetiankaSh/phone-catalogue_TetSh.git
+cd phone-catalogue_TetSh
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the project locally
+
+```bash
+npm start
+```
